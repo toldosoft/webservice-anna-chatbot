@@ -27,9 +27,8 @@ This Python script provides a secure method for encrypting and decrypting data u
 ## Usage
 Run the script to encrypt data, send it to the server, and decrypt the response:
 ```bash
-python script_name.py
+python app.py
 ```
-Replace `script_name.py` with the actual name of your script.
 
 ## Example of Encrypted Communication
 - Data is encrypted using a base64 encoded key and IV before being sent.
